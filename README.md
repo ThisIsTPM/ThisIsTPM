@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst**, pursuing BTech. from Natio
 | Libraries | Pandas, NumPy, Matplotlib, Seaborn |
 | Data Visualization | Power BI, Matplotlib, Seaborn, Excel Dashboards |
 | Web Development | HTML, CSS, JavaScript |
-| Data Cleaning & Preparation | Advanced handling of datasets, datetime manipulation, discount analysis |
+| Data Cleaning & Preparation | Advanced Handling of Datasets, Datetime Manipulation, DAX Queries |
 
 ## 🚀 Projects
 
